@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $databasename = "s900_database";
+    $databasename = "bus";
 
     $con = mysqli_connect($servername,$username,$password,$databasename);
 
